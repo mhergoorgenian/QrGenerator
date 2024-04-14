@@ -18,25 +18,13 @@ This Python script generates QR codes for URLs using the `qrcode` library.
     ```bash
     git clone https://github.com/your_username/qr-code-generator.git
     ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd qr-code-generator
-    ```
-
-3. Edit the `generate_qr_code.py` script to customize the URL and filename if needed.
-
-4. Run the script:
+2. Change the  `url` in script.    
+ 
+3. Run the script:
     ```bash
     python generate_qr_code.py
     ```
+4. The QR code will be saved as `test.png` in the project directory.
 
-5. The QR code will be saved as `example_qr_code.png` in the project directory.
 
-## Contributing
 
-Contributions are welcome! If you'd like to add new features, improve existing ones, or report issues, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
