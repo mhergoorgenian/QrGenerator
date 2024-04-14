@@ -1,4 +1,3 @@
-# QrGenrator
 # QR Code Generator
 
 This Python script generates QR codes for URLs using the `qrcode` library.
