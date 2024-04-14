@@ -15,6 +15,6 @@ def generate_qr_code(url, filename):
 
 if __name__ == "__main__":
     url = "yourUrl"
-    filename = r"C:\Users\Mg\Desktop\pyproject\Qrcode\test.png"
+    filename = "test.png"
     generate_qr_code(url, filename)
     print(f"QR Code saved as {filename}")
